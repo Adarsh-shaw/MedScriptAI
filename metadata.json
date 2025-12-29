@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MedScript AI - Digital Prescription Management",
+  "description": "A comprehensive digital prescription platform featuring AI-powered drug interaction checks, OCR for handwritten notes, and role-based access for Doctors, Patients, and Pharmacists.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
