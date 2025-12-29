@@ -81,7 +81,7 @@ The **Digital Prescription Management System** is a web-based platform that allo
 - Mobile-first Progressive Web App (PWA)  
 - Multi-language support for rural accessibility  
 
-## 🔄 Workflow
+## Workflow
 1. Doctor logs in securely
 2. Creates a digital prescription
 3. System checks drug interactions
@@ -89,27 +89,27 @@ The **Digital Prescription Management System** is a web-based platform that allo
 5. Patient receives reminder notifications
 6. Pharmacist scans QR code to verify authenticity
 
-## 📌 Installation
-git clone https://github.com/your-username/digital-prescription-system.git
+## Installation
+git clone https://github.com/Adarsh-shaw/MedScriptAI
 cd digital-prescription-system
 npm install
 npm start
 
-## 🌍 Social Impact
+## Social Impact
 - Reduces medical errors
 - Prevents prescription fraud
 - Improves continuity of care
 - Supports rural and elderly patients
 - Encourages digital healthcare adoption in India
 
-## 🔮 Future Scope
+## Future Scope
 - AI-based dosage recommendations
 - WhatsApp/SMS reminders
 - Blockchain-based prescription storage
 - Multi-language support
 - Government hospital integration
 
-## 📜 License
+## License
 MIT License
 
 Built with ❤️ for accessible, secure, and transparent healthcare.
